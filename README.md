@@ -1,5 +1,7 @@
 # Hugo Documentation with GitHub Pages
-This repository shows how you can use [GitHub Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/) to create a documentation hub for your repository. Created by [Simon Karman](https://www.simonkarman.nl).
+This [repository](https://github.com/simonkarman/hugo-docs) shows how you can use [GitHub Pages](https://pages.github.com/) with [Hugo](https://gohugo.io/) to create a documentation hub for your repository. Created by [Simon Karman](https://www.simonkarman.nl).
+
+You can find a demo of the publish docs here: [https://simonkarman.github.io/hugo-docs/](https://simonkarman.github.io/hugo-docs/).
 
 ## Getting started
 After you have installed hugo on your machine. You can run hugo locally by using the following commands.
