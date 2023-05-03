@@ -5,7 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "docs-start": "node src/index.js"
+    "docs-start": "(cd docs && hugo serve)",
+    "docs-publish": "(cd docs && hugo --gc --minify)"
   },
   "author": "Simon Karman",
   "license": "ISC"
