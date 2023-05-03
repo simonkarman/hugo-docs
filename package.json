@@ -1,0 +1,12 @@
+{
+  "name": "hugo-docs",
+  "version": "1.0.0",
+  "description": "Example of hugo documentation with GitHub actions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "docs-start": "node src/index.js"
+  },
+  "author": "Simon Karman",
+  "license": "ISC"
+}
