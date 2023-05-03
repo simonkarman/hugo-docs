@@ -1,8 +1,0 @@
-languageCode = 'en-us'
-title = 'Hugo Docs by Simon Karman'
-theme = "hugo-theme-learn"
-baseURL = "https://simonkarman.github.io/hugo-docs/"
-landingPageUrl = "https://simonkarman.github.io/hugo-docs/"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]

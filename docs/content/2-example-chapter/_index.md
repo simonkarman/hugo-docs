@@ -1,12 +1,11 @@
 ---
-title: "Example Chapter 02"
+title: "Example Chapter"
 weight: 2
-chapter: true
 pre: "<b>2. </b>"
 ---
 
-# Example Chapter 02
+# Example Chapter
 
-This is a chapter with the following children:
+This is an example chapter with the following children:
 
 {{% children  %}}
