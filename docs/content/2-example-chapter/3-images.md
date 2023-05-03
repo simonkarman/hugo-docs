@@ -11,4 +11,6 @@ Add your image to `docs/static/images` directory and then use the following Mark
 ```
 
 ### Example
-{{< figure src="/images/boat.jpg?width=60pc" >}}
+This is an example image, which is served as a static file (`boat.jpg`) from the `docs/static/images/` directory and displayed at a width of 40 percent (`?width=40pc`).
+
+{{< figure src="/images/boat.jpg?width=40pc" >}}
